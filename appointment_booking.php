@@ -34,6 +34,7 @@
     <div class="container">
         <div class="text-center mb-5">
             <h2 class="fw-bold my-4"  style="font-size:3rem;" >Why Choose WhatsApp for Appointment Booking</h2>
+            <h3>Book Medical Appointments with Ease via Whatsapp</h3>
         </div>
         <div class="row g-4">
             <!-- 'g-4' applies gap between cards -->
